@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+
+}
+.bg-color{
+    background-color:rgb(200, 200, 200);
+}
+.bg-colored{
+    background-color: rgb(2, 74, 116);
+}
+.bg-color-new{
+    background-color: rgb(217, 243, 255);
+}
